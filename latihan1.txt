@@ -5,3 +5,5 @@ Pada latihan 1 ini, saya sudah;
 Pada latihan ini, saya juga sudah;
 a. Membuat file latihan1.txt. 
 b. Mencoba membuat branch
+
+Melakukan merge dengan sesi-3.
